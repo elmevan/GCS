@@ -18,4 +18,7 @@ for num in range (1,11):
 print("fim")
 
 contaLetra(input("Opção de escolha: "),input("Qual a Frase: "))
+<<<<<<< HEAD
 teste
+=======
+>>>>>>> origin/master
